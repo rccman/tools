@@ -1,5 +1,9 @@
 # tools
-[TOC]
+**Contents**
+
+- [Java Utils](#Java Utils)
+- [JS Utils](#JS Utils)
+- [联系作者](#联系作者)
 
 > 用于存储开发使用的工具类，工具包等。
 
@@ -18,3 +22,6 @@ qrcode | 生成二维码工具类
 
 
 
+## 联系作者
+
+**Email：rccman@163.com**
