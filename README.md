@@ -1,9 +1,4 @@
 # tools
-**Contents**
-
-- [Java Utils](#Java Utils)
-- [JS Utils](#JS Utils)
-- [联系作者](#联系作者)
 
 > 用于存储开发使用的工具类，工具包等。
 
